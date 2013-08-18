@@ -1,4 +1,4 @@
 NN
 ==
 
-Micro Kernel (arm arch.)
+Micro Kernel
