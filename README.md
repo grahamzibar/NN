@@ -1,4 +1,4 @@
 NN
 ==
 
-Micro Kernel
+bare metal drivers
